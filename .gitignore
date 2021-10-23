@@ -1,2 +1,8 @@
 node_modules
 .vs
+barcode/Assets
+barcode/bin
+barcode/obj
+barcode/Properties
+barcode/Resources
+barcode/barcode.csproj
